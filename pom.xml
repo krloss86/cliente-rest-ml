@@ -3,5 +3,5 @@
   <groupId>ar.com.hasar</groupId>
   <artifactId>ml-rest-client</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>cliente rest de mercado libre</name>
+  <name>cliente rest de mercadolibre</name>
 </project>
